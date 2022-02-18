@@ -1,0 +1,23 @@
+{
+  "employees": [
+    {
+      "batch": "c++",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "employee": "rani",
+      "batch": "java"
+    },
+    {
+      "id": 3,
+      "employee": "sruthi",
+      "batch": "javascript"
+    },
+    {
+      "id": 4,
+      "employee": "swetha",
+      "batch": "python"
+    }
+  ]
+}
